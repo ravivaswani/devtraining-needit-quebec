@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EmployeeMaster" max_length="40" name="x_58872_needit_employeemaster" sizeclass="0" type="collection">
+        <element label="DeptID" max_length="40" name="deptid" type="string"/>
+        <element label="Empid" max_length="40" name="empid" type="integer"/>
+    </element>
+</database>
